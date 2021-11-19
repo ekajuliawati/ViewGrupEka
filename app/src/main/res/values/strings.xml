@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LatihanViewGrup</string>
+    <string name="standar">Standar</string>
+    <string name="vip">VIP</string>
+    <string name="content_text">Mencari Hotel atau Penginapan
+    bukanlah hal yang mudah. kita harus mencari tempat yang
+    nyaman dan tidak berbahaya untuk kita sendiri dan keluarga
+    tercinta. Tidak lupa kita harus menyediakan uang yang sesuai
+    dengan penginapan yang anda inginkan.Maka dari itu kami
+    menyediakan layanan untuk mencari hotel atau penginapan
+    sesuai dengan budget yang anda miliki .
+    </string>
+    <string name="content_text1">Ada banyak jenis penginapan, mulai dari hotel, hostel, resort, cottage, villa, dan masih banyak lagi. Semuanya adalah tempat menginap bagi para wisatawan. Yang membedakannya adalah harga, lokasi, fasilitas, dan jumlah kamar, serta jenis pengunjungnya sendiri:
+        Apakah sang tamu merupakan keluarga, pasangan, kelompok pertemanan, pebisnis, ataupun solo traveler</string>
+    <string name="deal">KENYAMANAN ANDA ADALAH PRIORITAS KAMI</string>
+    <string name="itu">5 photos</string>
+    <string name="itu1">15 photos</string>
+    <string name="stock">Stock hanya sisa 10 kamar</string>
+    <string name="stock1">Stock hanya sisa 100 kamar</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="vasilitas">Fasilitas</string>
+    <string name="wifi">Free WIFI</string>
+    <string name="vailitas2">Kasur , Wc, Kamar Mandi</string>
+    <string name="vailitas3">Kolam Renang</string>
+    <string name="vailitas4">Restauran</string>
+    <string name="vailitas5">Tempat Fitnes</string>
+    <string name="vailitas6">Taman</string>
+    <string name="vailitas7">Lapangan Golf</string>
+    <string name="my_name">Zahra Hotel</string>
+    <string name="my_name1">Eka Hotel</string>
+    <string name="buy">Cek In</string>
+    <string name="dummy_value">Rp. 130.000K</string>
+    <string name="dummy_value1">Rp. 1.300.000K</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="lokasi2">Bengkalis, Jl.Sudirman</string>
+    <string name="lokasi3">Bengkalis, Jl.Gatot Subroto</string>
+    <string name="nama_hotel">Zahra Hotel</string>
+    <string name="nama_hotel1">Eka Hotel</string>
+
+</resources>
